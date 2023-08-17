@@ -1,0 +1,23 @@
+{
+	"data":
+[
+	{
+		"id":1,
+		"name":"Roushan kumar",
+		"email":"bobymkm@gmail.com",
+		"address":"mokama"	
+	},
+	{
+		"id":2,
+		"name":"Avinash kumar",
+		"email":"avi@gmail.com",
+		"address":"Bhopal"	
+	},
+	{
+		"id":3,
+		"name":"Sourav kumar",
+		"email":"SOurav@gmail.com",
+		"address":"Tejpur"	
+	},
+]
+}
